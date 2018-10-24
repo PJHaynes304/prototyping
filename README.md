@@ -1,6 +1,8 @@
 # Ender-3
 Slicer settings and printed files for the Ender 3
 
+# Slicer Settings
+
 Layer Height: 0.1mm for highest qualtiy but long print time. 0.2mm still produces good quality
 
 Initial layer height: 0.2mm
